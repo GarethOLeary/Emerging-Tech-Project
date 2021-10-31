@@ -2,6 +2,11 @@
 
 ***
 
+This repository is the main assessment for **Emerging Technoligies** which includes two jupyter notebooks:
+
+1. Scikit-Learn Jupyter Notebook
+2. Quantum-Deutsch Jupyter Notebook
+
 ## Quick Steps 
 
 You can view the scikit-learn notebook in static form by clicking the following image:
@@ -20,7 +25,7 @@ You can view the quantum-deutsch notebook in dynamic form by clicking the follow
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GarethOLeary/Emerging-Tech-Project/HEAD?labpath=quantum-deutsch.ipynb)
 
-## How to run the notebook
+## How to run the notebooks
 
 1. Download [Anaconda](https://docs.anaconda.com/anaconda/install/index.html).
 2. Download [cmder](https://cmder.net/) if on windows.
